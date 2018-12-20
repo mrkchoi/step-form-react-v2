@@ -1,5 +1,4 @@
 import React from "react";
-import "semantic-ui-css/semantic.min.css";
 import FormUserDetails from "./FormUserDetails";
 import FormPersonalDetails from "./FormPersonalDetails";
 import Confirm from "./Confirm";
